@@ -1,4 +1,4 @@
-AWS Wearable 
+AWS Wearable Health Guard system and Data flow Architecture
 ### **Edge & Gateway Services**
 - **🌐 AWS IoT Core**: Device registry, MQTT messaging, <100ms processing
 - **🚪 API Gateway**: REST APIs, authentication, rate limiting
