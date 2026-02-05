@@ -1,19 +1,4 @@
-# AWS Architecture Diagram - AI-Powered Pulmonary Care System
-
-## 🎯 Overview
-
-This directory contains the professional AWS architecture diagram for the AI-Powered Pulmonary Care System, designed for the **AI for Bharat AWS Hackathon** professional track submission.
-
-## 📁 Files
-
-- **`aws-architecture-diagram.svg`** - High-quality vector diagram (1600x1200px)
-- **`convert_to_png.py`** - Script to convert SVG to PNG format
-- **`generate_diagram.py`** - Alternative diagram generator
-- **`create_clear_aws_diagram.py`** - Matplotlib-based generator
-- **`README.md`** - This documentation file
-
-## 🏗️ Architecture Components
-
+AWS Wearable 
 ### **Edge & Gateway Services**
 - **🌐 AWS IoT Core**: Device registry, MQTT messaging, <100ms processing
 - **🚪 API Gateway**: REST APIs, authentication, rate limiting
